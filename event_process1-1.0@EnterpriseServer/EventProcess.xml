@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application guid="EVENT_PROCESS1" version="1.0">
+  <display categories="User Processes" name="Event Process1"/>
+  <creation authors="eStudio" date="28-10-2021 03:57:06" lastModifiedDate="28-10-2021 03:57:06"/>
+  <deployment label="Development"/>
+  <service-instances/>
+  <routes/>
+</application>
