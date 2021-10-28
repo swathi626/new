@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <layout>
-  <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0"/>
+  <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
+    <service-instance name="Feeder1" x="237" y="127"/>
+  </subflow>
 </layout>
