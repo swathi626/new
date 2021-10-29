@@ -2,5 +2,6 @@
 <layout>
   <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
     <service-instance name="Feeder1" x="404" y="106"/>
+    <service-instance name="Display1" x="664" y="89"/>
   </subflow>
 </layout>
