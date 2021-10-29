@@ -2,7 +2,7 @@
 <application guid="EVENT_PROCESS2" version="1.0">
   <display categories="User Processes" name="Event Process2"/>
   <creation authors="eStudio" date="29-10-2021 04:14:14" lastModifiedDate="29-10-2021 04:14:14"/>
-  <deployment label="Development"/>
+  <deployment label="Staging"/>
   <service-instances>
     <inst name="Feeder1">
       <service guid="Feeder" version="4.0"/>
@@ -142,4 +142,5 @@
     </route>
   </routes>
   <durableRoute/>
+  <deleteDestinationAfterStop/>
 </application>
